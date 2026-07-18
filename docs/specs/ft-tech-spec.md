@@ -1,0 +1,2 @@
+# Fortuneteller. Technical Requirement Specification
+
